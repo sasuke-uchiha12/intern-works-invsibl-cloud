@@ -1,0 +1,6 @@
+user_input,retrieved_contexts,response,faithfulness
+what are the ethics involves in ai ?,"['Ethics in AI involves addressing issues like bias, transparency, and accountability in AI systems to ensure they are fair, trustworthy, and beneficial to society.', 'Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn. It encompasses fields like machine learning, natural language processing, and robotics.']","**Answer:** Ethics in AI focuses on addressing concerns like bias, transparency, and accountability in AI systems, aiming to make them fair, trustworthy, and beneficial to society.
+
+**Supporting Context:** Document 1 states that ""Ethics in AI involves addressing issues like bias, transparency, and accountability in AI systems to ensure they are fair, trustworthy, and beneficial to society.""
+
+**Additional Notes:** Ethics in AI is a crucial field that helps ensure AI systems align with human values and contribute positively to our lives.",0.5714285714285714
