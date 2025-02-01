@@ -1,0 +1,12 @@
+[project]
+name = "vanna-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "google-cloud-aiplatform>=1.78.0",
+    "kaleido==0.2.1",
+    "python-dotenv>=1.0.1",
+    "vanna[gemini,mysql,openai]>=0.7.5",
+]
